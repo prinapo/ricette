@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "199341501866",
+    "firebase_url": "https://ricette-eff06-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "ricette-eff06",
+    "storage_bucket": "ricette-eff06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199341501866:android:66d8b1882ead623b9d4fd3",
+        "android_client_info": {
+          "package_name": "com.prinapo.ricette"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199341501866-gngb9cv0nidls5q5qtmk3dg08p613i9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn7fW1VyTCYpkLFZffUi1ztu6gXCl69CY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199341501866-gngb9cv0nidls5q5qtmk3dg08p613i9s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
